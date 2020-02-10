@@ -1,2 +1,2 @@
 
-ML with Python
+ML practice with Python
